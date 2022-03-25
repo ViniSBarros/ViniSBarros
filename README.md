@@ -26,9 +26,9 @@ Um pouco sobre mim:
   ##
  
 <div> 
-  <a href = "mailto:vini_dsbarros@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-barros-3b43a7213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/vinis_barross/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://twitter.com/ViniS_barros"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vini_dsbarros@hotmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="icone outlook"></a>
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-barros-3b43a7213/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="icone linkedin"></a> 
+  <a href="https://www.instagram.com/vinis_barross/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="icone instagram"></a>
+  <a href = "https://twitter.com/ViniS_barros" target="_blank" rel="external"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="icone twitter"></a>
  
 </div>
