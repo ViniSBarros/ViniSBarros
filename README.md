@@ -3,7 +3,7 @@
 Um pouco sobre mim:
 - Tenho 19 anos
 - 🔭 Procurando um emprego
-- 📖 Estudando JAVA E SQL server
+- 📖 Estudando JAVA E MySql
 - 🖥️ Cursando Ciência da Computação na UAM
 - 📫 Entre em contato comigo pelo e-mail: vini_dsbarros@hotmail.com
 
